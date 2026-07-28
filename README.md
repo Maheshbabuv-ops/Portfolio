@@ -48,75 +48,76 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-index.html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# index.html
 
-    <h1>My Portfolio</h1>
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>My Portfolio</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+    
+        <h1>My Portfolio</h1>
+    
+        <div class="menu">
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </div>
+    
+        <h2 id="about">About Me</h2>
+        <p>Hello</p>
+    
+        <h2 id="projects">Projects</h2>
+        <ul>
+            <li>Portfolio Website</li>
+            <li>Calculator</li>
+            <li>Student Registration Form</li>
+        </ul>
+    
+        <h2 id="contact">Contact</h2>
+        <p>Email: john@example.com</p>
+        <p>Phone: 9876543210</p>
 
-    <div class="menu">
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </div>
+    </body>
+    </html>
 
-    <h2 id="about">About Me</h2>
-    <p>Hello</p>
-
-    <h2 id="projects">Projects</h2>
-    <ul>
-        <li>Portfolio Website</li>
-        <li>Calculator</li>
-        <li>Student Registration Form</li>
-    </ul>
-
-    <h2 id="contact">Contact</h2>
-    <p>Email: john@example.com</p>
-    <p>Phone: 9876543210</p>
-
-</body>
-</html>
-
-style.css
-body {
-    font-family: Arial;
-    background-color: lightgray;
-    text-align: center;
-}
-
-h1 {
-    background-color: navy;
-    color: white;
-    padding: 10px;
-}
-
-.menu {
-    background-color: gray;
-    padding: 10px;
-}
-
-.menu a {
-    color: white;
-    text-decoration: none;
-    margin: 10px;
-}
-
-.menu a:hover {
-    color: yellow;
-}
-
-h2 {
-    color: navy;
-}
-
-ul {
-    list-style-type: square;
-}   
+# style.css
+    body {
+        font-family: Arial;
+        background-color: lightgray;
+        text-align: center;
+    }
+    
+    h1 {
+        background-color: navy;
+        color: white;
+        padding: 10px;
+    }
+    
+    .menu {
+        background-color: gray;
+        padding: 10px;
+    }
+    
+    .menu a {
+        color: white;
+        text-decoration: none;
+        margin: 10px;
+    }
+    
+    .menu a:hover {
+        color: yellow;
+    }
+    
+    h2 {
+        color: navy;
+    }
+    
+    ul {
+        list-style-type: square;
+    }   
 
 ## OUTPUT
 <img width="1438" height="758" alt="Screenshot 2026-07-28 at 2 50 19 PM" src="https://github.com/user-attachments/assets/da522b82-c931-4fef-b617-072f1c26b10a" />
