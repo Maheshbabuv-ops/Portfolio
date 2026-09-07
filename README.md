@@ -1,5 +1,8 @@
 # Ex01 Portfolio
-## Date: 26/07/26
+
+NAME : MAHESHBABU V
+
+REG NO : 212225230166
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -120,7 +123,8 @@ Upload to GitHub Pages for free hosting.
     }   
 
 ## OUTPUT
-<img width="1438" height="758" alt="Screenshot 2026-07-28 at 2 50 19 PM" src="https://github.com/user-attachments/assets/da522b82-c931-4fef-b617-072f1c26b10a" />
+<img width="2876" height="1516" alt="image" src="https://github.com/user-attachments/assets/0398de9e-a6e5-4c1d-be30-b2945371f4c8" />
+
 
 
 ## RESULT
